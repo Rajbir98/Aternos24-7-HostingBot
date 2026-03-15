@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DSACOATCHINGLIMITED.aternos.me:12039",
+    "ip": "DSACOATCHINGLIMITED.aternos.me",
     "port": 12039,
     "version": "1.21.11",
     "try-creative": false
